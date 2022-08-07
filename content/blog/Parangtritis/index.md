@@ -2,7 +2,7 @@
 title: Pantai Parangtritis
 draft: false
 tags:
-date: Sun, 07 Aug 2022 01:15
+date: Sun, 07 Aug 2022 01:15 +0000
 cover:
     image: Parangtritis-1_1.webp
     alt: Pantai Parangtritis oke
